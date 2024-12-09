@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is practice repo
-Author - Rishab
+Author - Rishab sharma
